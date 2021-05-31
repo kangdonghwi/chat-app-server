@@ -1,1 +1,16 @@
-express와 socket.io를 사용해 실시간 채팅방 서버를 구축했습니다.
+# ☂️chat-app-server☂️
+
+## Description
+
+### 실시간채팅방
+
+## Dev Stack
+
+- Node.js
+- express
+- socket.io
+
+## Features
+
+[] New User
+[] Get User Number
