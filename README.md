@@ -12,5 +12,10 @@
 
 ## Features
 
-[] New User
-[] Get User Number
+[ ] New User
+[ ] Get User Number
+[x] Get New Message
+[ ] User Connection
+[ ] User Disconnection
+[ ] User Reconnection
+[ ] Connect mongodb
